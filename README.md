@@ -4,7 +4,5 @@
 ### Estudiante:  Juan Diego Maldonado Tamayo
 ### ID:  000513095
 
-arquitectura de una computadora:
-se refiere a la estructura y diseño del sistema realacionado a sus componentes y manejo de datos
 
-https://lucid.app/lucidspark/b0a724c1-b334-4735-b2bd-ebaa8cd6e4d4/edit?viewport_loc=-3481%2C-1194%2C11700%2C5988%2C0_0&invitationId=inv_118d1c9d-a49f-4f29-9a4d-1585271e8889
+[https://lucid.app/lucidspark/b0a724c1-b334-4735-b2bd-ebaa8cd6e4d4/edit?viewport_loc=-3481%2C-1194%2C11700%2C5988%2C0_0&invitationId=inv_118d1c9d-a49f-4f29-9a4d-1585271e8889](https://lucid.app/lucidspark/b0a724c1-b334-4735-b2bd-ebaa8cd6e4d4/edit?viewport_loc=-3481%2C-1194%2C11700%2C5988%2C0_0&invitationId=inv_118d1c9d-a49f-4f29-9a4d-1585271e8889)
